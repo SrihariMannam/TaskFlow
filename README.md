@@ -36,13 +36,13 @@ Make sure you have the following software installed on your system:
 1. Clone the repository or download the source code:
 
    ```bash
-   git clone https://SrihariMannam.com/Task-Management
+   git clone https://SrihariMannam.com/TaskFlow
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Task-Management/Project-Files
+   cd TaskFlow/Project-Files
    ```
 
 3. Install the dependencies:
